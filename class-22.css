@@ -1,0 +1,39 @@
+/* Header Section */
+.header{
+    background-color: #f5f5f5;
+  
+} 
+.header-logo{
+    width: 30px;
+    height: auto;
+
+}
+.header-menu{}
+.header-menu ul{
+
+}
+.header-menu ul li{
+    display: inline-block;
+}
+.header-menu ul li a{
+    color: #0049d0;
+    text-decoration: none;
+    display:block;
+    padding: 20px 15px;
+
+}
+/* Banner Section */
+.banner{
+    background:url(https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80) no-repeat ;
+    padding: 250px;
+    background-size: 100% 100%;
+
+}
+.banner-text h1{
+    color: white;
+    font-weight:500 ;
+}
+/* Service Section */
+img{
+    max-width: 100%;
+}
